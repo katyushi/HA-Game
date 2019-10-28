@@ -3,6 +3,7 @@
 ## Informações Importantes
 
 ### Ferramentas e sub Ferramentas
+- Unity Hub
 - Unity 2d
   - C# ou C++ (Scripts)
 - Git
