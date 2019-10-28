@@ -14,9 +14,12 @@
 - <b>consultar o arquivo gamelayout.txt</b>
 
 ### Cursos Uteis
-
 - https://www.udemy.com/share/101qsCBEYfdFlVQXQ=/ (git e github)
 - https://www.udemy.com/share/101w26BEYfdFlVQXQ=/ (Introdução ao 2D Game Kit do Unity)
 - https://www.udemy.com/share/101Gr2BEYfdFlVQXQ=/ (A narrativa nos jogos de videogame)
 - https://www.udemy.com/share/101vGYBEYfdFlVQXQ=/ (Game Design e Análise de Componentes em Games)
 - https://learn.unity.com (site da ferramenta com informações e tutoriais)
+
+### Lembretes
+- não esqueça dos comentarios
+- tente explicar o que foi feito na commit quando commitar
