@@ -23,3 +23,4 @@
 ### Lembretes
 - não esqueça dos comentarios
 - tente explicar o que foi feito na commit quando commitar
+- http://bit.ly/2mRpu81
