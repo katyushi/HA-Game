@@ -3,4 +3,6 @@
 4 simple boss
 1 final boss
 21 levels
+unity 2d
+plataformer 
 1 a 9 ano
