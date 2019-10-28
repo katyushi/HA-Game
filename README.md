@@ -6,9 +6,9 @@
 - Unity Hub
 - Unity 2d
   - C# ou C++ (Scripts)
+- Visual Studio (para C# ou C++ (o Unity instala o que precisa))
 - Git
 - Github
-- Visual Studio (para C# ou C++ (o Unity instala o que precisa))
 
 ### Informações layout
 - <b>consultar o arquivo gamelayout.txt</b>
